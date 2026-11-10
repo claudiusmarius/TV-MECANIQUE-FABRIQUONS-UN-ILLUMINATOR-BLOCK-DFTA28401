@@ -1,9 +1,6 @@
 # TV-MECANIQUE-FABRIQUONS-UN-ILLUMINATOR-BLOCK-DFTA28401
 Construction LIght Array pour TV mécanique
 
-# Moniteur de Télévision Mécanique 32 Lignes (NBTV)
-
-Bienvenue sur le dépôt officiel du projet de reconstruction de mon moniteur de télévision mécanique 32 lignes (format standard NBTVA). Ce dépôt regroupe l'intégralité des fichiers de conception nécessaires pour réaliser l'appareil présenté dans la série de vidéos de ma chaîne YouTube.
 
 ## 📺 Projet Associé : Fabriquons un Illuminator Block (DFTA284)
 Cette section est dédiée à la fabrication du **Bloc d'Illumination** (ou *Illuminator Block*), le projecteur à 12 LEDs haute intensité qui se place derrière le disque de Nipkow pour restituer l'image analogique en modulant son courant proportionnellement au signal vidéo utile.
